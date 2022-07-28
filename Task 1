@@ -1,0 +1,101 @@
+ db.movie.find().pretty()
+{
+        "_id" : ObjectId("62e31c62f2b3bd8fe8ee50a7"),
+        "movie_name" : "Conjuring",
+        "media" : "video",
+        "genre" : "horrer",
+        "review" : 2,
+        "user" : "Amit",
+        "artist_skill" : "Acting",
+        "role" : "lead"
+}
+{
+        "_id" : ObjectId("62e31d05f2b3bd8fe8ee50a8"),
+        "movie_name" : "Conjuring",
+        "media" : "video",
+        "genre" : "horrer",
+        "review" : 1,
+        "user" : "Sumit",
+        "artist_skill" : "Makeup",
+        "role" : "side"
+}
+{
+        "_id" : ObjectId("62e31d45f2b3bd8fe8ee50a9"),
+        "movie_name" : "RRR",
+        "media" : "video",
+        "genre" : "Action",
+        "review" : 360,
+        "user" : "Sunil",
+        "artist_skill" : "Action",
+        "role" : "Lead"
+}
+{
+        "_id" : ObjectId("62e31d5cf2b3bd8fe8ee50aa"),
+        "movie_name" : "RRR",
+        "media" : "video",
+        "genre" : "Action",
+        "review" : 365,
+        "user" : "Anil",
+        "artist_skill" : "Action",
+        "role" : "Lead"
+}
+{
+        "_id" : ObjectId("62e31d8ef2b3bd8fe8ee50ab"),
+        "movie_name" : "KGF",
+        "media" : "video",
+        "genre" : "Action",
+        "review" : 325,
+        "user" : "Lalit",
+        "artist_skill" : "Action",
+        "role" : "Lead"
+}
+{
+        "_id" : ObjectId("62e31d9df2b3bd8fe8ee50ac"),
+        "movie_name" : "KGF",
+        "media" : "video",
+        "genre" : "Action",
+        "review" : 325,
+        "user" : "Dalit",
+        "artist_skill" : "Action",
+        "role" : "Lead"
+}
+{
+        "_id" : ObjectId("62e31e19f2b3bd8fe8ee50ad"),
+        "movie_name" : "Dhamal",
+        "media" : "video",
+        "genre" : "Comedy",
+        "review" : 125,
+        "user" : "Dev",
+        "artist_skill" : "Action",
+        "role" : "Lead"
+}
+{
+        "_id" : ObjectId("62e31e34f2b3bd8fe8ee50ae"),
+        "movie_name" : "Dhamal",
+        "media" : "video",
+        "genre" : "Comedy",
+        "review" : 145,
+        "user" : "Devi",
+        "artist_skill" : "Action",
+        "role" : "side"
+}
+{
+        "_id" : ObjectId("62e31e7ff2b3bd8fe8ee50af"),
+        "movie_name" : "Raid",
+        "media" : "video",
+        "genre" : "Drama",
+        "review" : 450,
+        "user" : "Devilal",
+        "artist_skill" : "Action",
+        "role" : "lead"
+}
+{
+        "_id" : ObjectId("62e31efef2b3bd8fe8ee50b0"),
+        "movie_name" : "Raid",
+        "media" : "video",
+        "genre" : "Drama",
+        "review" : 450,
+        "user" : "Sunderlal",
+        "artist_skill" : "Action",
+        "role" : "lead"
+}
